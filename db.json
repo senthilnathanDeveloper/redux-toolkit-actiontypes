@@ -1,0 +1,25 @@
+{
+  "userDetails": [
+    {
+      "name": "JohnDoe",
+      "email": "johndoe@gmail.com",
+      "phone": "1234567890",
+      "address": "America",
+      "id": 1
+    },
+    {
+      "name": "Leo",
+      "email": "Leo@gmail.com",
+      "phone": "1234567890",
+      "address": "Kashmir",
+      "id": 2
+    },
+    {
+      "name": "Rolex",
+      "email": "Rolex@gmail.com",
+      "phone": "1234567890",
+      "address": "Mumbai",
+      "id": 3
+    }
+  ]
+}
